@@ -25,4 +25,9 @@
   (pad "1" smd rect (at 1.575 0) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 97c6c7f7-2654-4bcb-b417-31fbb895511f))
   (pad "2" smd rect (at -1.575 0) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 00d0ac46-36ff-48bb-b32c-aedf7e227199))
   (pad "2" thru_hole circle (at -1.575 0) (size 1 1) (drill 0.5) (layers *.Cu) (tstamp ee462000-6830-4226-940c-e1c6a71726e0))
+  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (offset (xyz 0 0 -1.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
 )
