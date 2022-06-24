@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "redox_footprints")(type "KiCad")(uri "${KIPRJMOD}/../redox_footprints.pretty")(options "")(descr ""))
+)
